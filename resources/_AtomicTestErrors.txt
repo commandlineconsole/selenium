@@ -1,0 +1,98 @@
+(42,foo)[Error] expected:
+()
+1[Error] expected:
+2
+2[Error] expected:
+1
+2[Error] expected:
+1
+2[Error] expected:
+1
+Right((1,2))[Error] expected:
+Right(())
+Left(Division by Zero)[Error] expected:
+Left(())
+Right((2,0))[Error] expected:
+Right(())
+22/21[Error] expected:
+22
+22/21[Error] expected:
+1
+22/21[Error] expected:
+1
+Some(I am wrapped in something)[Error] expected:
+Some(())
+Some(Found value)[Error] expected:
+Some
+Some(Found value)[Error] expected:
+Some(())
+Found value[Error] expected:
+
+No Value[Error] expected:
+Found value
+No Value[Error] expected:
+No 
+No value[Error] expected:
+No Value
+Some(Found value)[Error] expected:
+Some(())
+Some(Found value)[Error] expected:
+Some()
+Some(4.5)[Error] expected:
+Some
+Some(4.5)[Error] expected:
+Some(())
+Some(4.5)[Error] expected:
+Some(3)
+None[Error] expected:
+()
+Hi[Error] expected:
+2
+Hola[Error] expected:
+
+Hola[Error] expected:
+
+()[Error] expected:
+None
+Some(A$A73$A$A73$Movie@fc37777)[Error] expected:
+Some((Grand hotel,1932))
+Some(A$A115$A$A115$Movie@3d60e4bd)[Error] expected:
+
+Some(A$A118$A$A118$Movie@59dd1de6)[Error] expected:
+(All Quiet On the Western Front,1930)
+Some(A$A128$A$A128$Movie@484ead74)[Error] expected:
+Some
+Some(A$A129$A$A129$Movie@5539ac1d)[Error] expected:
+Some
+Superman[Error] expected:
+
+Tue May 02 19:41:21 BST 2017[Error] expected:
+
+Tue May 02 19:41:28 BST 2017[Error] expected:
+Tue May 02 19:40:55 BST 2017
+five[Error] expected:
+
+Cyn Goktas[Error] expected:
+
+Some(1)[Error] expected:
+1
+List(2, 3)[Error] expected:
+List()
+List(3, 2, 1)[Error] expected:
+List()
+List(2, 4, 6)[Error] expected:
+List()
+List(3, 6, 9)[Error] expected:
+List()
+List(1, 2, 3, 4, 5)[Error] expected:
+scala.collection.immutable.List$@48329948
+List(1, 2, 3, 4, 5)[Error] expected:
+List()
+List(1, 2, 3, 4, 5)[Error] expected:
+List(1, 2, 3, 4)
+List(1, 2, 3)[Error] expected:
+List()
+List(1, 2, 3)[Error] expected:
+List(1, 2)
+List(2, 3)[Error] expected:
+List()

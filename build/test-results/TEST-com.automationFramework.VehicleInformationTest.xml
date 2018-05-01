@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.automationFramework.VehicleInformationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-10T17:43:08" hostname="thinkpad" time="11.791">
+  <properties/>
+  <testcase name="testVehicleInfortmation" classname="com.automationFramework.VehicleInformationTest" time="11.791"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8) on port 2793
+Only local connections are allowed.
+Jan 10, 2018 5:43:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+Using PPAPI flash.
+ --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=
+Jan 10, 2018 5:43:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
